@@ -1,10 +1,10 @@
-# Olá 👋🏽! Eu sou o Erick Rocha
+# Olá 👋🏽! Eu sou o Erick 
 
 -💻 Desejo me tornar desenvolvedor Full Stack
 
--📟 Estudando Javascript
+-📟 Estudante da Oracle Next Education
 
--👨🏽‍🎓 Cursando o Oracle One Next Education
+-👨🏽‍🎓 Cursando Análise e desenvolvimento de sistemas 1/5
 
 
  <div>
