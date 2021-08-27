@@ -15,7 +15,7 @@
  
   
   
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Krice32&layout=compact&bg_color=00000000&text_color=DCDCDC&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" width="85%" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Krice32&layout=compact&hide_title=false&theme=dark" width="100%" />
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
