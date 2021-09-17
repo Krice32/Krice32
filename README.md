@@ -31,7 +31,7 @@
   <img align="center" alt="Erick-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
 </div>
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Krice32&repo=Krice32&theme=react)](https://github.com/Krice32/Krice32)
   ##
  
 <div> 
