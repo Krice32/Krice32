@@ -2,8 +2,6 @@
 
 -💻 Desejo me tornar desenvolvedor Full Stack
 
--📟 Estudante da Oracle Next Education
-
 -👨🏽‍🎓 Cursando Análise e desenvolvimento de sistemas 1/5
 
 
