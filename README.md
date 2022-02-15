@@ -2,7 +2,7 @@
 
 -💻 Desejo me tornar desenvolvedor Full Stack
 
--👨🏽‍🎓 Cursando Análise e desenvolvimento de sistemas 1/5
+-👨🏽‍🎓 Cursando Análise e desenvolvimento de sistemas 2/5
 
 
  <div>
